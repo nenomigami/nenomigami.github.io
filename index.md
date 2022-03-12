@@ -2,7 +2,7 @@
 
 ## Welcome
 
-AI 기술과 게임의 결합 그리고 게임을 통한 교육에 관심이 있는 정호윤[(Profile)](http://nenomigami.github.io/about/)이라고 합니다.
+데이터사이언티스트 정호윤[(Profile)](http://nenomigami.github.io/about/)이라고 합니다.
 
 
 ## Categories

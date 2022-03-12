@@ -6,7 +6,7 @@ title : About
 
 # 👨🏻‍💻 Junior data scientist
 
-😇 No pain, Yes gain 한 세상을 지향하는 데이터 사이언티스트 정호윤입니다.😇 
+😇 데이터 사이언티스트 정호윤입니다.😇 
 
 ![Jeong%20HoYun%20ML,%20DL%2043fe9c54389549e0aceb6e80644b92b0/_.png](Jeong%20HoYun%20ML,%20DL%2043fe9c54389549e0aceb6e80644b92b0/_.png)
 
