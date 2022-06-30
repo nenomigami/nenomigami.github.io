@@ -15,7 +15,6 @@
 
 2. [Fundamental]{:.heading.flip-title}
    - 【Math】 : 기초 수학 정리
-   - 【Programming】 : 프로그래밍 공부 내용 정리
    - 【CS】 : 각종 Computer Science 관련 내용
 
 3. [Others]{:.heading.flip-title}
