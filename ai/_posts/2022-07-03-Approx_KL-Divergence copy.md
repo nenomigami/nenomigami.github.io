@@ -85,7 +85,7 @@ $$approxKL = log[\frac{q(x)}{p(x)}] + \lambda(\frac{p(x)}{q(x)} -1) = \lambda(\f
  width="70%" />
 </p>
 
-그러므로 최종 reverse KL divergence 의 근사값은 
+그러므로 최종 reverse KL divergence 의 근사값은 다음과 같다.
 
 $$approxKL = (r-1) - logr$$
 $$r = \frac{p(x)}{q(x)}$$
